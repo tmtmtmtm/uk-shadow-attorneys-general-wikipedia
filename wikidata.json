@@ -1,0 +1,48 @@
+[
+  {
+    "item": {
+      "value": "Q1617771",
+      "label": "Peter Archer, Baron Archer of Sandwell"
+    },
+    "replaces": {
+      "value": "Q333932",
+      "label": "John Morris, Baron Morris of Aberavon"
+    },
+    "replacedBy": {
+      "value": "Q4798416",
+      "label": "Arthur Davidson"
+    },
+    "start": {
+      "value": "1981-11-24T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1982-11-24T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1617771$2E2FEF3D-EF34-43DE-B5F6-BAF1389F1595"
+  },
+  {
+    "item": {
+      "value": "Q334339",
+      "label": "Edward Garnier"
+    },
+    "replaces": {
+      "value": "Q332994",
+      "label": "Dominic Grieve"
+    },
+    "replacedBy": {
+      "value": "Q194713",
+      "label": "Patricia Scotland, Baroness Scotland of Asthal"
+    },
+    "start": {
+      "value": "2009-09-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q334339$652D04BC-4BD8-42F9-90C7-0B22E0C4898E"
+  }
+]
