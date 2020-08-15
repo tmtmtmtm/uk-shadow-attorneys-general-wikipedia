@@ -1,6 +1,71 @@
 [
   {
     "item": {
+      "value": "Q333350",
+      "label": "Michael Havers, Baron Havers"
+    },
+    "replacedBy": {
+      "value": "Q7412628",
+      "label": "Samuel Silkin, Baron Silkin of Dulwich"
+    },
+    "start": {
+      "value": "1975-02-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333350$BB857157-12C3-4393-861F-B154C3317190"
+  },
+  {
+    "item": {
+      "value": "Q7412628",
+      "label": "Samuel Silkin, Baron Silkin of Dulwich"
+    },
+    "replaces": {
+      "value": "Q333350",
+      "label": "Michael Havers, Baron Havers"
+    },
+    "replacedBy": {
+      "value": "Q333932",
+      "label": "John Morris, Baron Morris of Aberavon"
+    },
+    "start": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-07-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q7412628$3BC50679-B0DA-4B2A-9F08-6CD7CC2B8E5B"
+  },
+  {
+    "item": {
+      "value": "Q333932",
+      "label": "John Morris, Baron Morris of Aberavon"
+    },
+    "replaces": {
+      "value": "Q7412628",
+      "label": "Samuel Silkin, Baron Silkin of Dulwich"
+    },
+    "replacedBy": {
+      "value": "Q1617771",
+      "label": "Peter Archer, Baron Archer of Sandwell"
+    },
+    "start": {
+      "value": "1979-07-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1981-11-24T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333932$8C931685-15A2-4F4E-901A-F5BE3A324488"
+  },
+  {
+    "item": {
       "value": "Q1617771",
       "label": "Peter Archer, Baron Archer of Sandwell"
     },
@@ -24,6 +89,144 @@
   },
   {
     "item": {
+      "value": "Q4798416",
+      "label": "Arthur Davidson"
+    },
+    "replaces": {
+      "value": "Q1617771",
+      "label": "Peter Archer, Baron Archer of Sandwell"
+    },
+    "replacedBy": {
+      "value": "Q333932",
+      "label": "John Morris, Baron Morris of Aberavon"
+    },
+    "start": {
+      "value": "1982-11-24T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1983-06-09T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4798416$9BDF381F-3583-40CE-A54E-C801D9FDD95E"
+  },
+  {
+    "item": {
+      "value": "Q333932",
+      "label": "John Morris, Baron Morris of Aberavon"
+    },
+    "replaces": {
+      "value": "Q4798416",
+      "label": "Arthur Davidson"
+    },
+    "replacedBy": {
+      "value": "Q334638",
+      "label": "Nicholas Lyell, Baron Lyell of Markyate"
+    },
+    "start": {
+      "value": "1983-06-09T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333932$48EB986A-248D-4F4D-9C31-6C74C550A4F9"
+  },
+  {
+    "item": {
+      "value": "Q334638",
+      "label": "Nicholas Lyell, Baron Lyell of Markyate"
+    },
+    "replaces": {
+      "value": "Q333932",
+      "label": "John Morris, Baron Morris of Aberavon"
+    },
+    "replacedBy": {
+      "value": "Q334339",
+      "label": "Edward Garnier"
+    },
+    "start": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-06-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q334638$7A9BEF37-7597-4D25-B4A8-69C5972D0F8B"
+  },
+  {
+    "item": {
+      "value": "Q334339",
+      "label": "Edward Garnier"
+    },
+    "replaces": {
+      "value": "Q334638",
+      "label": "Nicholas Lyell, Baron Lyell of Markyate"
+    },
+    "replacedBy": {
+      "value": "Q269449",
+      "label": "Bill Cash"
+    },
+    "start": {
+      "value": "1997-06-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2001-09-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q334339$3A06AADC-FED6-4B0F-9084-BDE294C8A79A"
+  },
+  {
+    "item": {
+      "value": "Q269449",
+      "label": "Bill Cash"
+    },
+    "replaces": {
+      "value": "Q334339",
+      "label": "Edward Garnier"
+    },
+    "replacedBy": {
+      "value": "Q332994",
+      "label": "Dominic Grieve"
+    },
+    "start": {
+      "value": "2001-09-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2003-11-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q269449$294EDFB6-9455-41AE-B0A1-90DC0647A04C"
+  },
+  {
+    "item": {
+      "value": "Q332994",
+      "label": "Dominic Grieve"
+    },
+    "replaces": {
+      "value": "Q269449",
+      "label": "Bill Cash"
+    },
+    "replacedBy": {
+      "value": "Q334339",
+      "label": "Edward Garnier"
+    },
+    "start": {
+      "value": "2003-11-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2009-09-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332994$B819B747-5547-4E25-9CD6-9B93BCDE3976"
+  },
+  {
+    "item": {
       "value": "Q334339",
       "label": "Edward Garnier"
     },
@@ -44,5 +247,158 @@
       "precision": "11"
     },
     "statement": "Q334339$652D04BC-4BD8-42F9-90C7-0B22E0C4898E"
+  },
+  {
+    "item": {
+      "value": "Q194713",
+      "label": "Patricia Scotland, Baroness Scotland of Asthal"
+    },
+    "replaces": {
+      "value": "Q334339",
+      "label": "Edward Garnier"
+    },
+    "replacedBy": {
+      "value": "Q272408",
+      "label": "Emily Thornberry"
+    },
+    "start": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2011-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q194713$2A31920E-DB61-4556-9621-50F8665F38C0"
+  },
+  {
+    "item": {
+      "value": "Q272408",
+      "label": "Emily Thornberry"
+    },
+    "replaces": {
+      "value": "Q194713",
+      "label": "Patricia Scotland, Baroness Scotland of Asthal"
+    },
+    "replacedBy": {
+      "value": "Q1651801",
+      "label": "William Bach, Baron Bach"
+    },
+    "start": {
+      "value": "2011-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2014-12-03T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q272408$8FA5C92C-57EE-4EB2-81A6-05B203EA0614"
+  },
+  {
+    "item": {
+      "value": "Q1651801",
+      "label": "William Bach, Baron Bach"
+    },
+    "replaces": {
+      "value": "Q272408",
+      "label": "Emily Thornberry"
+    },
+    "replacedBy": {
+      "value": "Q3411409",
+      "label": "Catherine McKinnell"
+    },
+    "start": {
+      "value": "2014-12-03T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-09-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1651801$4795D52B-CC92-4CCE-B7DB-20E2998D05CD"
+  },
+  {
+    "item": {
+      "value": "Q3411409",
+      "label": "Catherine McKinnell"
+    },
+    "replaces": {
+      "value": "Q1651801",
+      "label": "William Bach, Baron Bach"
+    },
+    "replacedBy": {
+      "value": "Q272123",
+      "label": "Karl Turner"
+    },
+    "start": {
+      "value": "2015-09-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-01-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q3411409$D2685FC9-45D2-4E38-9EDF-FC7CF3AC9823"
+  },
+  {
+    "item": {
+      "value": "Q272123",
+      "label": "Karl Turner"
+    },
+    "replaces": {
+      "value": "Q3411409",
+      "label": "Catherine McKinnell"
+    },
+    "replacedBy": {
+      "value": "Q7487533",
+      "label": "Shami Chakrabarti"
+    },
+    "start": {
+      "value": "2016-01-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-06-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q272123$487DC4EB-5225-4318-B7FA-7EBE4B5A60C9"
+  },
+  {
+    "item": {
+      "value": "Q7487533",
+      "label": "Shami Chakrabarti"
+    },
+    "replaces": {
+      "value": "Q272123",
+      "label": "Karl Turner"
+    },
+    "replacedBy": {
+      "value": "Q337117",
+      "label": "Charles Falconer, Baron Falconer of Thoroton"
+    },
+    "start": {
+      "value": "2016-10-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2020-04-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q7487533$A670D607-6722-490F-A604-4C18FCE05E07"
+  },
+  {
+    "item": {
+      "value": "Q337117",
+      "label": "Charles Falconer, Baron Falconer of Thoroton"
+    },
+    "replaces": {
+      "value": "Q7487533",
+      "label": "Shami Chakrabarti"
+    },
+    "start": {
+      "value": "2020-04-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q337117$EDEBF9F2-B632-4D80-AEDC-46CC4A354027"
   }
 ]
